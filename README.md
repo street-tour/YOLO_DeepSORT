@@ -1,0 +1,6 @@
+- yolo_lstm_safety_project/
+-   처음 CCTV 영상을 가지고 작업한 작업물
+- yolo_lstm_safety_project_copy/
+-   처음 CCTV 영상을 가지고 작업한 정리된 python files
+- yolo_safety_project
+-   다른 CCTV 영상을 가지고 작업한 python files
