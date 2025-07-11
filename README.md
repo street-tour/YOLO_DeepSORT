@@ -6,7 +6,7 @@
 
         처음 CCTV 영상을 가지고 작업한 정리된 python files
 
-- yolo_safety_project
+- yolo_safety_project/
 
         다른 CCTV 영상을 가지고 작업한 python files
 
